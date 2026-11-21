@@ -380,10 +380,10 @@
   resolved "https://registry.yarnpkg.com/@inquirer/type/-/type-3.0.10.tgz#11ed564ec78432a200ea2601a212d24af8150d50"
   integrity sha512-BvziSRxfz5Ov8ch0z/n3oijRSEcEsHnhggm4xFZe93DHcUCTlutlq9Ox4SVENAfcRD22UQq7T/atg9Wr3k09eA==
 
-"@js-utils-kit/constants@^0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@js-utils-kit/constants/-/constants-0.6.0.tgz#1c335e188342385efeeb5078813233181f49baea"
-  integrity sha512-+E8qXdv7Vkpe+LZNTvJUrT80bB00WmccKMhzH3y8rY7xmDOuV0ri9CbpY5Hr2S9rUFuxkBFMHsMlGGY0tFYlUQ==
+"@js-utils-kit/constants@^0.7.0":
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/@js-utils-kit/constants/-/constants-0.7.0.tgz#9e627657aff67f7323acdf65fa8f013654f4737c"
+  integrity sha512-BNt02SZhu+Ue4tGbdbH2BgmlL83gsUcr7lgGKoX0OPVOKj8V15QOgAfU4A25yfvAryeFC9iKj8px0adGUZo5RA==
   dependencies:
     "@js-utils-kit/types" "1.6.0"
 
