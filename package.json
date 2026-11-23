@@ -60,7 +60,7 @@
   "dependencies": {
     "@actions/core": "^3.0.1",
     "@actions/github": "^9.1.1",
-    "@js-utils-kit/constants": "^0.6.0"
+    "@js-utils-kit/constants": "^0.7.0"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.6.8",
